@@ -1,1 +1,1 @@
-console.log(async)
+console.log('status')
